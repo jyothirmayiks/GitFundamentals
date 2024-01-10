@@ -1,0 +1,64 @@
+Git Fundamentals
+
+1.What is Git?
+Git is an open source distributed version control system mainly designed to track changes in source code during software development. It allows multiple developers to work on their projects simultaneously. Apart from this, Git has many uses such as,
+-It tracks changes made to the source code over time.
+-Maintain a history list for every change made to the codebase.
+-Helps to track the project status.
+-Allow the developers to work independently.
+-Used in open source projects which helps collaboration among developers world wide etc..
+2.Git Terminology
+•Repository- Place where the files, folders and other information are stored.
+•Commit-Commit command is used to save changes to our repository. Commit gives a snapshot of current version of our project.
+•Branch-An independent line of development that add features and fix bugs without effecting the original project.
+•Master- Default development branch.
+•Push-For uploading our local changes
+•Pull request-Proposing the changes that made to a repository.
+•Fork-Create copy of a repository on a server like Github
+•Clone-Create copy of a repository on our system.
+•Merge-Combines changes from one branch to another
+
+3.Basic Commands of Git
+git config-used to initially configure the user.
+git init-initialize a Git repository.
+git clone-to copy and download the repository
+git add-to add changes
+git commit-save changes in our local repository
+git status–to check status
+git checkout- to create and switch to a new branch
+git branch- for creating a branch
+git push- pushes file from our local machines to the remote repository
+git pull- for pulling changes
+git merge- for merging branches
+
+4.GitHub,GitLab,Bitbucket
+GitHub,GitLab,Bitbucket are all web-based platforms that provide version control and collaboration features for software development using Git.
+
+GitHub
+Largest open source code repository.
+One of the most important software development platform.
+Offers both public and private repositories.
+Fastest platform to make and share documents
+GitLab.
+Comparatively smaller community.
+GitLab provides a single interface to the whole DevOps cycle.
+Bitbucket
+Suitable for small to medium sized teams.
+Not an open source.
+Help them manage their projects, including version control, source control, code review, task management and more
+5.Industrial practices of using Git
+Version control
+Collaborative development
+Code reviews
+Access control and permissions.
+6.Cloning a repo to local
+
+  Open command prompt->Copy repository URL->Initiate the clone command->Press enter
+
+7.Resources used
+1.https://dev.to/milu_franz/git-explained-the-basics-igc
+2.https://disbug.io/en/blog/github-vs-gitlab-vs-bitbucket
+3.https://youtu.be/8JJ101D3knE?si=LVRqer8_ekPW9u2n
+4.ChatGPT
+
+
